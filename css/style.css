@@ -3,7 +3,7 @@
 @font-face {
 	font-family: Flow;
 	/* Имя шрифта */
-	src: url(./fonts/Flow.otf);
+	src: url(../fonts/Flow.otf);
 	/* Путь к файлу со шрифтом */
 }
 
@@ -128,7 +128,7 @@ body {
 
 .slider__content_title span {
 	text-transform: uppercase;
-	font-family: 'Flow', sans-serif;
+	font-family: 'Flow';
 	color: #ffc000;
 	font-size: 170px;
 	font-weight: 400;
